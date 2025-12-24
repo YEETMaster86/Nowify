@@ -16,7 +16,7 @@
   &__cover,
   &__details {
     padding: var(--spacing-m);
-    text-align: center;
+    text-align: left;
     width: 100%;
   }
 
@@ -32,7 +32,7 @@
   }
 
   &__details {
-    text-align: center;
+    text-align: left;
   }
 
   &__track {
